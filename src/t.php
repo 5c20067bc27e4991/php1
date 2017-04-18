@@ -1,2 +1,4 @@
 <?php
-echo phpinfo();
+echo date ( "Y/m/d" );
+echo phpinfo ();
+?>
